@@ -1,11 +1,11 @@
 ## Desafio PHP - PBsoft 
 
-Descrição:
+<b>Descrição:</b>
 O cliente precisa controlar o estoque de produtos de um e-commerce, foi solicitado
 um sistema WEB que controle esse fluxo e os endpoints REST para que no futuro
 seja feito um app.
 
-Desafio: Criar um CRUD de produtos, o produto deve ter NOME, DESCRIÇÃO, CATEGORIA,
+<b>Desafio:</b> Criar um CRUD de produtos, o produto deve ter NOME, DESCRIÇÃO, CATEGORIA,
 PREÇO e QUANTIDADE. A listagem, cadastro, atualização e exclusão devem poder
 ser realizadas via REST API.
 
