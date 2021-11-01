@@ -14,7 +14,7 @@ ser realizadas via REST API.
 
 - Instale um servidor PHP, como o <b>Xampp</b> ou <b>Wamp</b>. 
 - Em seguida instale o gerenciador de dependências <b>Composer</b>, para instalar o <b>Laravel</b>.
-- Baixe o repositório do GitHub, em seguida transfira o mesmo para pasta de execução no servidor PHP (Xampp: htdocs | Wamp64: www)
+- Baixe o repositório do GitHub, em seguida transfira o mesmo para pasta de execução do servidor PHP (Xampp: htdocs | Wamp64: www)
 - Renomei os parâmetros do banco de dados no arquivo .env
 - Parâmetros do banco:
 
