@@ -26,7 +26,7 @@ DB_USERNAME=root<br>
 DB_PASSWORD=
 
 - Em seguida, execute o PhpMyAdmin para exportar o SQL do backup do banco (backup.sql) localizado no diretório da solução.
-- URL de execução principal: http://127.0.0.1/crud-produtos/public/produtos
+- URL de execução principal: http://127.0.0.1/crud-produtos/public/produtos ou http://localhost/crud-produtos/public/produtos
 
 ## API Rest - Rotas
 
