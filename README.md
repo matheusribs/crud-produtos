@@ -30,7 +30,7 @@ DB_PASSWORD=
 
 ## API Rest - Rotas
 
-- As rotas da API rest está localizada no arquivo api.php (Routes/api.php) <br>
+- As rotas da API rest estão localizadas no arquivo api.php (Routes/api.php) <br>
 <b>Execução de requisições API:</b> Instale um API Client como <b>Postman</b> ou <b>Insomnia</b> para testar as requisições da API</b>
 
 // Rota de inserção de produtos no banco <br>
